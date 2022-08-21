@@ -1,0 +1,14 @@
+{
+  "name": "test-driven-development",
+  "version": "1.0.0",
+  "description": "test driven development with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sahil Pandith",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}
